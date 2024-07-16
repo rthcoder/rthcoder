@@ -19,7 +19,7 @@
   <br>
   💬 Ask me anything about from <a href="https://t.me/rth_dev">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: tohirdavrsmart@gmail.com"tohirdavrsmart@gmail.com</a>
+  📫 How to reach me: <a href="mailto: tohirdavrsmart@gmail.com">tohirdavrsmart@gmail.com</a>
 </p>
 
 
