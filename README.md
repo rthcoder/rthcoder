@@ -44,5 +44,5 @@
 
 <hr>
 <h4 align="center">
-  <a href="https://github.com/rtohirdavrsmart?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/tohirdavrsmart?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
