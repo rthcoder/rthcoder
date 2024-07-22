@@ -17,7 +17,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  💬 Ask me anything about from <a href="https://t.me/rth_dev">Here</a>
+  💬 Ask me anything about from <a href="https://t.me/ravshanov_7">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: tohirdavrsmart@gmail.com">tohirdavrsmart@gmail.com</a>
 </p>
