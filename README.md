@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mabrur-h">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Tohir👨‍💻&center=true&size=30">
@@ -10,6 +12,7 @@
  <a href="https://t.me/rth_dev" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  <a href="https://www.facebook.com/toxir.ravshanov.14/" title="FB Profile"><img width="80" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </h5>
+
 <br>
 <p align="center">
   Hi, I'm Tohir, Backend Developer from Uzbekistan
@@ -21,7 +24,6 @@
   <br>
   📫 How to reach me: <a href="mailto: tohirdavrsmart@gmail.com">tohirdavrsmart@gmail.com</a>
 </p>
-
 
 <hr>
 <p align=center>
@@ -40,6 +42,7 @@
     </a>
   </div>
   <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=tohirdavrsmart&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
